@@ -1,0 +1,1 @@
+This project is a Question Answering (QA) System designed specifically for the Hindi language. It leverages pre-trained word embeddings (like FastText or Word2Vec) to understand semantic relationships between Hindi words and retrieve accurate answers from a given context.
